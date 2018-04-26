@@ -2,3 +2,5 @@
 /ido*
 /places
 /backups
+/auto-save-list
+/smex*
